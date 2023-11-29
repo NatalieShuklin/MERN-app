@@ -1,0 +1,7 @@
+Book library 
+  - can add books
+  - edit books
+  - delete
+  - feature: shows edit history per book 
+
+using node js, React, mongoDB, express
